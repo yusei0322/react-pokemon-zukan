@@ -1,3 +1,9 @@
+# ポケモン図鑑(react-pokemon-zukan)
+
+公開URL: https://yusei0322.github.io/react-pokemon-zukan/
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
