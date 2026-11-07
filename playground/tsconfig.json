@@ -1,0 +1,8 @@
+{
+  // エディタの型補完用。ルートの tsconfig.json からは参照していないので npm run build には影響しない
+  "extends": "../tsconfig.app.json",
+  "compilerOptions": {
+    "tsBuildInfoFile": "../node_modules/.tmp/tsconfig.playground.tsbuildinfo"
+  },
+  "include": ["."]
+}
